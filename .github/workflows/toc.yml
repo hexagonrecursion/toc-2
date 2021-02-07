@@ -15,3 +15,4 @@ jobs:
           TARGET_PATHS: "doc/JSON_INFO.md"
           COMMIT_NAME: "TOC Generator"
           COMMIT_EMAIL: "noreply@example.invalid"
+          CREATE_PR: true
