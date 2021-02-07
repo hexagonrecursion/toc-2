@@ -2,3 +2,4 @@
 <!-- END doctoc -->
 # Foo
 # Bar
+# Baz
