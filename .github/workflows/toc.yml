@@ -16,3 +16,4 @@ jobs:
           COMMIT_NAME: "TOC Generator"
           COMMIT_EMAIL: "noreply@example.invalid"
           CREATE_PR: true
+          CHECK_ONLY_DEFAULT_BRANCH: true
