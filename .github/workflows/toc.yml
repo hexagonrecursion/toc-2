@@ -10,7 +10,7 @@ jobs:
     name: TOC Generator
     runs-on: ubuntu-latest
     steps:
-      - uses: technote-space/toc-generator@v2.6.1
+      - uses: technote-space/toc-generator@v3
         with:
           TARGET_PATHS: "doc/JSON_INFO.md"
           COMMIT_NAME: "TOC Generator"
